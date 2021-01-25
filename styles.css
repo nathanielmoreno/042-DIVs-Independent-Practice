@@ -1,0 +1,61 @@
+img {
+    height: 200px;
+}
+
+.header {
+    background-color: lightblue;
+    border: 10px inset blue;
+    padding: 20px;
+    margin: 20px;
+}
+
+.troy {
+    background-color: green;
+    border: 10px outset black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.richard {
+    background-color: lightgrey;
+    border: 10px dashed lightblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+.duchess {
+    background-color: lightblue;
+    border: 10px double pink;
+    margin: 20px;
+    padding: 20px;
+}
+
+.dogs {
+    background-color: blue;
+    border: 10px groove black;
+    padding: 10px;
+    margin: 20px;
+}
+
+img {
+    border: 10px outset #669999;
+    padding: 10px;
+    margin: 10px;
+    width: 260px;
+}
+
+h1{
+    font-family: 'Nerko One', cursive;
+}
+
+h2{
+    font-family: 'Nerko One', cursive;
+}
+
+h3{
+    font-family: 'Nerko One', cursive;
+}
+
+p{
+    font-family: 'Nerko One', cursive;
+}
